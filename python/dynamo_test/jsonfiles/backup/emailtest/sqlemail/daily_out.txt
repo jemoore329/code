@@ -1,0 +1,32 @@
+ opens |  publicationname  |       logicalissuename       | live_date  | issueid 
+-------+-------------------+------------------------------+------------+---------
+ 12497 | Essence Magazine  | Directory Feb 2016           | 2016-01-08 |    2895
+ 24274 | Health Magazine   | Directory Jan 2016           | 2015-12-23 |    2870
+     4 | Health Magazine   | Preview Directory 2016       | 2015-12-23 |    2871
+    13 | Health Magazine   | iPhone Preview Jan 2016      | 2015-12-23 |    2875
+    13 | Health Magazine   | Tablet Preview Jan 2016      | 2015-12-23 |    2876
+   195 | Health Magazine   | Tablet Jan 2016              | 2015-12-23 |    2888
+   177 | Health Magazine   | Tablet Jan 2016              | 2015-12-23 |    2893
+     7 | Health Magazine   | iPhone Jan 2016              | 2015-12-23 |    2894
+  5388 | Health Magazine   | Directory March 2016         | 2016-02-09 |    2920
+    30 | Health Magazine   | Tablet March 2016            | 2016-02-09 |    2930
+    57 | Health Magazine   | Tablet March 2016            | 2016-02-09 |    2931
+    23 | Health Magazine   | iPhone March 2016            | 2016-02-09 |    2932
+ 36963 | People StyleWatch | Directory Feb 2016           | 2016-01-04 |    2883
+  9053 | People StyleWatch | Preview Directory Feb 2016   | 2016-01-04 |    2884
+  4885 | People StyleWatch | Tablet Feb 2016              | 2016-01-04 |    2897
+  1390 | People StyleWatch | Tablet Feb 2016              | 2016-01-04 |    2898
+   479 | People StyleWatch | iPhone Feb 2016              | 2016-01-04 |    2899
+   111 | People StyleWatch | Tablet Preview Feb 2016      | 2016-01-04 |    2900
+    91 | People StyleWatch | iPhone Preview Feb 2016      | 2016-01-04 |    2901
+  1234 | People StyleWatch | Print March 2016             | 2016-02-15 |    2915
+ 15348 | People StyleWatch | Directory March 2016         | 2016-02-09 |    2916
+  2711 | People StyleWatch | Preview Directory March 2016 | 2016-02-09 |    2917
+  2999 | People StyleWatch | Tablet March 2016            | 2016-02-09 |    2942
+    69 | People StyleWatch | Windows March 2016           | 2016-02-09 |    2943
+   802 | People StyleWatch | Tablet March 2016            | 2016-02-09 |    2944
+   311 | People StyleWatch | iPhone March 2016            | 2016-02-09 |    2945
+    24 | People StyleWatch | Tablet Preview March 2016    | 2016-02-09 |    2946
+    16 | People StyleWatch | iPhone March 2016            | 2016-02-09 |    2947
+(28 rows)
+

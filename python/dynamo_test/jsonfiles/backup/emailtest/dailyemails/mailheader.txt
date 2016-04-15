@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Disposition: inline
+<html>
+<body>
+<pre style="font: monospace">
+<!DOCTYPE html>
+<table cellspacing="3" cellpadding="5" border="1">
+<td bgcolor="#93193e"><font color="#ffffff">Source</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Yesterday</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Day before</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Week Ago</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Day Difference</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Day % Change</td>
+<td bgcolor="#93193e"><font color="#ffffff">Week Difference</font></td>
+<td bgcolor="#93193e"><font color="#ffffff">Week % Change</td>

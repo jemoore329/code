@@ -1,0 +1,12 @@
+[
+    {
+        "userid": 2014,
+        "affinity":[ {
+            "brand": "Nike",
+            "score": 0.326
+        },{
+            "brand": "Adidas",
+            "score": 0.756
+          }]
+    }
+]
